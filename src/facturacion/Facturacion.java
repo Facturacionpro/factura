@@ -15,6 +15,7 @@ public class Facturacion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int m;
+        int m = 25;
+        System.out.println("M: " + 25);
     }
 }
