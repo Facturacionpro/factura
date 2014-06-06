@@ -6,7 +6,8 @@ package facturacion;
 
 /**
  *
- * @author FI12
+ * @jadirwalder
+ * 
  */
 public class Facturacion {
 
