@@ -7,7 +7,7 @@ package facturacion;
 /**
  *
  * @jadirwalder
- * 
+ * jennifer
  */
 public class Facturacion {
 
