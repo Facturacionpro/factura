@@ -16,7 +16,7 @@ public class FarmaciaDemo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         int b= 23;
-        String c= "Mauricio";
+        String c= "jennifer";
         System.out.println(b);
         System.out.println(c);
         System.out.println("onmfosdnf");  
