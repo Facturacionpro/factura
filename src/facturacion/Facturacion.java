@@ -2,24 +2,22 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package farmaciademo1;
+package facturacion;
 
 /**
  *
- * @author MAURICIO
+ * @jadirwalder
+ * jennifer
  */
-public class FarmaciaDemo1 {
+public class Facturacion {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int b= 23;
-        String c= "Mauricio";
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println("onmfosdnf");  
-      
+        int m = 25;
+        System.out.println("M: " + m);
+        System.out.println("Lo logre xD");
     }
 }
