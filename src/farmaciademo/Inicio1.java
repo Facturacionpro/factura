@@ -60,6 +60,7 @@ public class Inicio1 extends javax.swing.JFrame {
          Producto p = new Producto();
                   jDesktopPane1.add(p);
                   p.setVisible(true);
+                  //
     }//GEN-LAST:event_jMenuItem1ActionPerformed
 
     /**
